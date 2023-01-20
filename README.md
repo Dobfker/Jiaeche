@@ -1,4 +1,4 @@
-# Jiaeche
+# Jiaeche(지애체)
 
 Jiaeche is an open-source Korean handwritting font.
 
